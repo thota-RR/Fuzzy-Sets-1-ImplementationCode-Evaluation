@@ -37,17 +37,17 @@ Example:
 cd HustleFreeGroceryShopping
 ```
 
-## ▶️ Step 4: Run the Application (`app.py`)
+##  Step 4: Run the Application (`app.py`)
 
 Use the appropriate command based on your operating system.
 
-### 🪟 Windows
+###  Windows
 
 ```sh
 streamlit run app.py
 
 ```
-### 🔹 macOS / Linux
+###  macOS / Linux
 
 ```sh
 streamlit run app.py
